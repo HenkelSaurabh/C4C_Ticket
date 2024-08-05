@@ -17,5 +17,13 @@
   },
   "scripts": {
     "start": "cds-serve"
+  },
+  "cds": {
+    "requires": {
+      "ticket": {
+        "kind": "odata-v2",
+        "model": "srv/external/ticket"
+      }
+    }
   }
 }
