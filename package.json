@@ -22,7 +22,15 @@
     "requires": {
       "ticket": {
         "kind": "odata-v2",
-        "model": "srv/external/ticket"
+        "model": "srv/external/ticket",
+        "[sandbox]": {
+          "credentials": {
+            "url": "https://sandbox.api.sap.com/sap/c4c/odata/v1/c4codataapi",
+            "headers": {
+              "APIKey": "O4IeoqnmGPtrTjqJ4l9heog6GZeirON0"
+            }
+          }
+        }
       }
     }
   }

@@ -26,3 +26,8 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+Odata Endpoint: https://port4004-workspaces-ws-bvnlk.eu10.applicationstudio.cloud.sap/
+https://port4004-workspaces-ws-bvnlk.eu10.applicationstudio.cloud.sap/odata/v4/ticket 
+
+Final working Endpoint: https://port4004-workspaces-ws-bvnlk.eu10.applicationstudio.cloud.sap/odata/v4/ticket/ServiceReq

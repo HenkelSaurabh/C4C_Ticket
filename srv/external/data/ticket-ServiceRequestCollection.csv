@@ -1,0 +1,3 @@
+ObjectID,ID,Name,ProcessingTypeCode,ServiceRequestLifeCycleStatusCode,ServiceRequestLifeCycleStatusCodeText,MainTicketID
+69cd6843-681b-1edf-93e2-8bc970490bc1,1001,First Ticket,SRRQ,1,New,123
+69cd6843-681b-1edf-93e2-8bc970290bc1,1001,Second Ticket,SRRQ,2,In Process,12

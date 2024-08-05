@@ -1,6 +1,6 @@
 using {ticketDemo as tckt} from './external';
 
-service TicketSerivce{
+service TicketService{
     @readonly
     entity ServiceReq as projection on tckt.ServiceRequests;
 }
